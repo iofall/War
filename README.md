@@ -1,14 +1,12 @@
 # Game of War
 
-This is a simple CLI Python game created to emulated the War Card Game.
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+
+This project is a simple CLI Python game created to emulated the War Card Game.
 
 Simply download the `war.py` Python file and execute it in the command line to play the game.
 
-### Description
-
-War is a card game played between two players. The game is completely based on chance.
-
-**From Wikipedia**
+### Wikipedia Description
 
 War is a simple card game played between two players, where the goal is to win all the cards. 
 
